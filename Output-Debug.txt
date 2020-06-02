@@ -1,0 +1,19 @@
+﻿'ConsoleApplication3.exe' (Win32): Loaded 'C:\Users\Admin\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe'. Symbols loaded.
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x25bc has exited with code 0 (0x0).
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'ConsoleApplication3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x29ec has exited with code 0 (0x0).
+The thread 0x2a80 has exited with code 0 (0x0).
+The thread 0x19f4 has exited with code 0 (0x0).
+The program '[10260] ConsoleApplication3.exe' has exited with code 0 (0x0).
